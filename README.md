@@ -1,3 +1,21 @@
+# YOU NEED THIS:
+
+1. Svelte
+   https://svelte.dev/blog/svelte-for-new-developers
+3. Tailwind
+   https://tailwindcss.com/docs/guides/sveltekit
+4. Iconify
+   https://iconify.design/docs/icon-components/svelte/
+
+# Result
+
+  ![image](https://github.com/gitelam/to-do-list-on-svelte-and-tailwind/assets/117864220/d30105d4-8fac-4594-9084-44f721d3c351)
+
+  ![image](https://github.com/gitelam/to-do-list-on-svelte-and-tailwind/assets/117864220/b97863c2-fdfa-4169-b77f-18d7b7fd8008)
+
+
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
