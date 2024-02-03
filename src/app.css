@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.done label {
+    opacity: 0.4;
+    text-decoration: line-through;
+    
+  }
